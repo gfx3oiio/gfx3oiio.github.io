@@ -1,4 +1,5 @@
 source "https://rubygems.org"
-gemspec
 
-gem 'rake', '12.3.1'
+gem "github-pages", group: :jekyll_plugins
+gem "jekyll-include-cache", group: :jekyll_plugins
+gem "webrick", "~> 1.8"
