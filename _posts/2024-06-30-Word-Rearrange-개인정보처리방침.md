@@ -1,5 +1,5 @@
 ---
-title: "Alphabet Rearrangement 개인정보처리방침"
+title: "Word Rearrangement 개인정보처리방침"
 categories:
   - 개인정보처리방침
 tags:
@@ -11,7 +11,7 @@ comments: false
 ---
 **Privacy Policy**
 
-This privacy policy applies to the Alphabet Rearrangement app (hereby referred to as "Application") for mobile devices that was created by OIIO (hereby referred to as "Service Provider") as an Ad Supported service. This service is intended for use "AS IS".
+This privacy policy applies to the Word Rearrange app (hereby referred to as "Application") for mobile devices that was created by OIIO (hereby referred to as "Service Provider") as an Ad Supported service. This service is intended for use "AS IS".
 
 **Information Collection and Use**
 
