@@ -113,8 +113,8 @@ analytics:
 # Site Author
 author:
   name             : "OIIO"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "OIIO 홈페이지입니다."
+  avatar           : "/assets/images/OIIO_Ico.png"
+  bio              : "0과 1이라는 숫자로 세상을 표현합니다."
   location         : "Republic of Korea"
   email            : gfgfgfa13c80@gmail.com
   links:
