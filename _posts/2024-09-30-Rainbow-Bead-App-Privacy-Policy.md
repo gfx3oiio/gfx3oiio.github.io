@@ -1,17 +1,16 @@
 ---
-title: "Machine Golf 개인정보처리방침"
+title: "Rainbow Bead App Privacy Policy"
 categories:
-  - 개인정보처리방침
+  - Privacy Policy
 tags:
-  - 개인정보처리방침
+  - Privacy Policy
 
-date: 2024-06-12
-last_modified_at: 2024-07-23
+date: 2024-09-30
 comments: false
 ---
 **Privacy Policy**
 
-This privacy policy applies to the Machine Golf app (hereby referred to as "Application") for mobile devices that was created by OIIO (hereby referred to as "Service Provider") as an Ad Supported service. This service is intended for use "AS IS".
+This privacy policy applies to the Rainbow Bead app (hereby referred to as "Application") for mobile devices that was created by OIIO (hereby referred to as "Service Provider") as an Ad Supported service. This service is intended for use "AS IS".
 
 **Information Collection and Use**
 
@@ -62,7 +61,7 @@ The Service Provider will retain User Provided data for as long as you use the A
 
 The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
 
-The Application does not address anyone under the age of 13\. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (gfgfgfa13c80@gmail.com) so that they will be able to take the necessary actions.
+The Application does not address anyone under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (gfgfgfa13c80@gmail.com) so that they will be able to take the necessary actions.
 
 **Security**
 
@@ -72,7 +71,7 @@ The Service Provider is concerned about safeguarding the confidentiality of your
 
 This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-This privacy policy is effective as of 2024-06-12
+This privacy policy is effective as of 2024-09-30
 
 **Your Consent**
 
