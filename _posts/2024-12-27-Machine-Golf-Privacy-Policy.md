@@ -1,4 +1,5 @@
 ---
+published: true
 title: "Machine Golf Privacy Policy"
 categories:
   - Privacy Policy
