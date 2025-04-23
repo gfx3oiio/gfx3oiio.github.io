@@ -1,18 +1,18 @@
 ---
 published: true
-title: "Machine Golf Privacy Policy"
+title: "ASD Privacy Policy"
 categories:
   - Privacy Policy
 tags:
   - Privacy Policy
 
-date: 2024-12-27
-last_modified_at: 2024-12-27
+date: 2025-04-24
+last_modified_at: 2025-04-24
 comments: false
 ---
 **Privacy Policy**
 
-This privacy policy applies to the Machine Golf app (hereby referred to as "Application") for mobile devices that was created by OIIO (hereby referred to as "Service Provider") as an Ad Supported service. This service is intended for use "AS IS".
+This privacy policy applies to the ASD app (hereby referred to as "Application") for mobile devices that was created by OIIO (hereby referred to as "Service Provider") as an Ad Supported service. This service is intended for use "AS IS".
 
 **Information Collection and Use**
 
@@ -73,7 +73,7 @@ The Service Provider is concerned about safeguarding the confidentiality of your
 
 This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-This privacy policy is effective as of 2024-12-27
+This privacy policy is effective as of 2025-04-24
 
 **Your Consent**
 
