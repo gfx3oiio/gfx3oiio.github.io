@@ -1,17 +1,17 @@
 ---
-title: "Mini Water Ecosystem Privacy Policy"
+title: "My Pocket Ocean Privacy Policy"
 categories:
   - Privacy Policy
 tags:
   - Privacy Policy
 
 date: 2025-12-19
-last_modified_at: 2025-12-19
+last_modified_at: 2025-12-22
 comments: false
 ---
 **Privacy Policy**
 
-This privacy policy applies to the Mini Water Ecosystem app (hereby referred to as "Application") for mobile devices that was created by OIIO (hereby referred to as "Service Provider") as an Ad Supported service. This service is intended for use "AS IS".
+This privacy policy applies to the My Pocket Ocean app (hereby referred to as "Application") for mobile devices that was created by OIIO (hereby referred to as "Service Provider") as an Ad Supported service. This service is intended for use "AS IS".
 
 **Information Collection and Use**
 
